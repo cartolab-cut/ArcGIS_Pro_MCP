@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "arcgis-pro": {
+      "command": "C:\\Program Files\\ArcGIS\\Pro\\bin\\Python\\envs\\arcgispro-py3\\python.exe",
+      "args": [
+        "c:\\Pavlos_project's\\ArcGIS_Pro_MCP\\run_server.py"
+      ],
+      "env": {
+        "PYTHONIOENCODING": "utf-8"
+      }
+    }
+  }
+}
